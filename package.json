@@ -1,0 +1,10 @@
+{
+  "name": "mend-demo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "axios": "0.18.0",
+    "express": "4.16.0",
+    "minimist": "1.2.0"
+  }
+}
